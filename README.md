@@ -2,11 +2,13 @@
 
 Sistema desenvolvido em Microsoft Excel para cadastro, gerenciamento e análise de dados de alunos.
 
+<br>
 
 ## 📌 Sobre o Projeto
 
 O projeto permite cadastrar alunos, armazenar suas informações e analisar dados relacionados aos cursos e ao faturamento.
 
+<br>
 
 ## ⚙️ Funcionalidades
 - Cadastro de novos alunos
@@ -17,6 +19,7 @@ O projeto permite cadastrar alunos, armazenar suas informações e analisar dado
 - Geração de gráficos e indicadores
 - Automação do cadastro utilizando VBA
 
+<br>
 
 ## 📊 Dashboard
 
