@@ -2,7 +2,7 @@
 
 Sistema desenvolvido em Microsoft Excel para cadastro, gerenciamento e análise de dados de alunos.
 
-
+<br>
 
 ## 📌 Sobre o Projeto
 
